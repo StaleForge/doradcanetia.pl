@@ -21,8 +21,8 @@ You can visit the live website here: **[doradcanetia.pl](https://doradcanetia.pl
 ### 🛠️ Technologies Used
 I chose a modern web stack to ensure the best possible performance and developer experience:
 *   **[Astro.js](https://astro.build/):** The core framework used for Static Site Generation (SSG). Selected specifically for its "zero-JS by default" approach, which guarantees blazing-fast load times.
-*   **HTML5 & CSS3:** For semantic structure and custom styling. *(Tailwind CSS / SCSS)*
-*   **JavaScript:** For lightweight interactivity where needed.
+*   **HTML5 & TailWindCss:** For semantic structure and custom styling. *
+*   **TypeScript:** For lightweight interactivity where needed.
 
 ### ✨ Key Highlights
 *   **Exceptional Performance:** Achieved near-perfect scores in Google PageSpeed Insights thanks to Astro's architecture.
@@ -46,8 +46,8 @@ Możesz odwiedzić działającą stronę tutaj: **[doradcanetia.pl](https://dora
 ### 🛠️ Użyte Technologie
 Wybrałem nowoczesny stack technologiczny, aby zapewnić najwyższą wydajność:
 *   **[Astro.js](https://astro.build/):** Główny framework użyty do generowania statycznej strony (SSG). Wybrany ze względu na architekturę dostarczającą domyślnie zero JavaScriptu na front-endzie, co gwarantuje natychmiastowe ładowanie.
-*   **HTML5 & CSS3:** Semantyczna struktura i stylowanie. *(Tailwind CSS / SCSS)*
-*   **JavaScript:** Do dodania lekkich, niezbędnych interakcji.
+*   **HTML5 & TailWindCSS:** Semantyczna struktura i stylowanie. 
+*   **TypeScript:** Do dodania lekkich, niezbędnych interakcji.
 
 ### ✨ Główne cechy
 *   **Wyjątkowa wydajność:** Strona osiąga niemal perfekcyjne wyniki w Google PageSpeed Insights dzięki architekturze Astro.
